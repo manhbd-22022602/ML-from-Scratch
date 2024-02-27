@@ -1,0 +1,7 @@
+n_trees 2
+min_samples 2
+max_depth 2
+max_features 0.5
+0.5
+11
+<class 'numpy.str_'>

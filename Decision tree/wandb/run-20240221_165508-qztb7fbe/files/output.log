@@ -1,0 +1,4 @@
+n_trees <class 'str'>
+min_samples <class 'str'>
+max_depth <class 'str'>
+max_features <class 'str'>

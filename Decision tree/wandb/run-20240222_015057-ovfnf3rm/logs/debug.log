@@ -1,0 +1,58 @@
+2024-02-22 01:50:57,190 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Current SDK version is 0.16.3
+2024-02-22 01:50:57,191 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Configure stats pid to 21024
+2024-02-22 01:50:57,191 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Loading settings from C:\Users\bdm2k\.config\wandb\settings
+2024-02-22 01:50:57,191 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Loading settings from d:\2023-2024\Semester 2\Data mining\Decision tree\wandb\settings
+2024-02-22 01:50:57,191 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-22 01:50:57,192 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-02-22 01:50:57,192 INFO    MainThread:21024 [wandb_init.py:_log_setup():526] Logging user logs to d:\2023-2024\Semester 2\Data mining\Decision tree\wandb\run-20240222_015057-ovfnf3rm\logs\debug.log
+2024-02-22 01:50:57,192 INFO    MainThread:21024 [wandb_init.py:_log_setup():527] Logging internal logs to d:\2023-2024\Semester 2\Data mining\Decision tree\wandb\run-20240222_015057-ovfnf3rm\logs\debug-internal.log
+2024-02-22 01:50:57,192 INFO    MainThread:21024 [wandb_init.py:init():566] calling init triggers
+2024-02-22 01:50:57,193 INFO    MainThread:21024 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {'bootstrap': False, 'n_trees': 5, 'min_samples': 2, 'max_depth': 10, 'max_features': 'log2'}
+2024-02-22 01:50:57,193 INFO    MainThread:21024 [wandb_init.py:init():591] re-initializing run, found existing run on stack: rtxiqnfd
+2024-02-22 01:50:57,194 INFO    MainThread:21024 [wandb_run.py:_finish():1970] finishing run mc0c0z/RandomForest/rtxiqnfd
+2024-02-22 01:50:57,195 INFO    MainThread:21024 [jupyter.py:save_history():445] not saving jupyter history
+2024-02-22 01:50:57,195 INFO    MainThread:21024 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-02-22 01:50:57,195 INFO    MainThread:21024 [wandb_init.py:_jupyter_teardown():454] cleaning up jupyter logic
+2024-02-22 01:50:57,195 INFO    MainThread:21024 [wandb_run.py:_atexit_cleanup():2210] got exitcode: 0
+2024-02-22 01:50:57,196 INFO    MainThread:21024 [wandb_run.py:_restore():2193] restore
+2024-02-22 01:50:57,196 INFO    MainThread:21024 [wandb_run.py:_restore():2199] restore done
+2024-02-22 01:51:02,375 INFO    MainThread:21024 [wandb_run.py:_footer_history_summary_info():3866] rendering history
+2024-02-22 01:51:02,376 INFO    MainThread:21024 [wandb_run.py:_footer_history_summary_info():3898] rendering summary
+2024-02-22 01:51:02,382 INFO    MainThread:21024 [wandb_run.py:_footer_sync_info():3825] logging synced files
+2024-02-22 01:51:02,584 INFO    MainThread:21024 [wandb_init.py:init():616] starting backend
+2024-02-22 01:51:02,584 INFO    MainThread:21024 [wandb_init.py:init():620] setting up manager
+2024-02-22 01:51:02,586 INFO    MainThread:21024 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-02-22 01:51:02,587 INFO    MainThread:21024 [wandb_init.py:init():628] backend started and connected
+2024-02-22 01:51:02,595 INFO    MainThread:21024 [wandb_run.py:_label_probe_notebook():1295] probe notebook
+2024-02-22 01:51:02,595 INFO    MainThread:21024 [wandb_run.py:_label_probe_notebook():1305] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-02-22 01:51:02,595 INFO    MainThread:21024 [wandb_init.py:init():720] updated telemetry
+2024-02-22 01:51:02,597 INFO    MainThread:21024 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-02-22 01:51:04,005 INFO    MainThread:21024 [wandb_run.py:_on_init():2262] communicating current version
+2024-02-22 01:51:04,185 INFO    MainThread:21024 [wandb_run.py:_on_init():2271] got version response 
+2024-02-22 01:51:04,185 INFO    MainThread:21024 [wandb_init.py:init():804] starting run threads in backend
+2024-02-22 01:51:04,266 INFO    MainThread:21024 [wandb_run.py:_console_start():2241] atexit reg
+2024-02-22 01:51:04,266 INFO    MainThread:21024 [wandb_run.py:_redirect():2096] redirect: wrap_raw
+2024-02-22 01:51:04,266 INFO    MainThread:21024 [wandb_run.py:_redirect():2161] Wrapping output streams.
+2024-02-22 01:51:04,266 INFO    MainThread:21024 [wandb_run.py:_redirect():2186] Redirects installed.
+2024-02-22 01:51:04,267 INFO    MainThread:21024 [wandb_init.py:init():847] run started, returning control to user process
+2024-02-22 02:02:47,218 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Current SDK version is 0.16.3
+2024-02-22 02:02:47,219 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Configure stats pid to 21024
+2024-02-22 02:02:47,219 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Loading settings from C:\Users\bdm2k\.config\wandb\settings
+2024-02-22 02:02:47,219 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Loading settings from d:\2023-2024\Semester 2\Data mining\Decision tree\wandb\settings
+2024-02-22 02:02:47,219 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-22 02:02:47,219 INFO    MainThread:21024 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-02-22 02:02:47,221 INFO    MainThread:21024 [wandb_init.py:_log_setup():526] Logging user logs to d:\2023-2024\Semester 2\Data mining\Decision tree\wandb\run-20240222_020247-ongp15jw\logs\debug.log
+2024-02-22 02:02:47,221 INFO    MainThread:21024 [wandb_init.py:_log_setup():527] Logging internal logs to d:\2023-2024\Semester 2\Data mining\Decision tree\wandb\run-20240222_020247-ongp15jw\logs\debug-internal.log
+2024-02-22 02:02:47,221 INFO    MainThread:21024 [wandb_init.py:_jupyter_setup():472] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001A499E6BA90>
+2024-02-22 02:02:47,222 INFO    MainThread:21024 [wandb_init.py:init():566] calling init triggers
+2024-02-22 02:02:47,222 INFO    MainThread:21024 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {'bootstrap': False, 'n_trees': 5, 'min_samples': 2, 'max_depth': 10, 'max_features': 'sqrt'}
+2024-02-22 02:02:47,222 INFO    MainThread:21024 [wandb_init.py:init():591] re-initializing run, found existing run on stack: ovfnf3rm
+2024-02-22 02:02:47,224 INFO    MainThread:21024 [wandb_run.py:_finish():1970] finishing run mc0c0z/RandomForest/ovfnf3rm
+2024-02-22 02:02:47,224 INFO    MainThread:21024 [wandb_run.py:_atexit_cleanup():2210] got exitcode: 0
+2024-02-22 02:02:47,224 INFO    MainThread:21024 [wandb_run.py:_restore():2193] restore
+2024-02-22 02:02:47,225 INFO    MainThread:21024 [wandb_run.py:_restore():2199] restore done
+2024-02-22 02:02:53,166 INFO    MainThread:21024 [wandb_run.py:_footer_history_summary_info():3866] rendering history
+2024-02-22 02:02:53,167 INFO    MainThread:21024 [wandb_run.py:_footer_history_summary_info():3898] rendering summary
+2024-02-22 02:02:53,173 INFO    MainThread:21024 [wandb_run.py:_footer_sync_info():3825] logging synced files
